@@ -2,7 +2,7 @@ import React from 'react'
 
 import './app.scss';
 
-import Intro from './components/dashboard'
+import Intro from './components/intro'
 
 const App = () => {
   return (
